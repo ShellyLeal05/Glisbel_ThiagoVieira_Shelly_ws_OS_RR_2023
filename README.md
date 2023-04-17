@@ -1,23 +1,22 @@
 
 # Algoritmo de Busca em Profundidade usando Multithreading
 
-Desenvolvido por [Glisbel](https://github.com/glisbel?tab=repositories) , [Thiago Vieira](https://github.com/MustPlay) and [Shelly Leal](https://github.com/ShellyLeal05)
+Desenvolvido por [Glisbel](https://github.com/glisbel?tab=repositories) , [Thiago Vieira](https://github.com/MustPlay) e [Shelly Leal](https://github.com/ShellyLeal05)
 
 ---
 
-## Table of Contents
+## Índice
 
 - [Objetivo](#Objetivo)
-- [Presentation](#presentation)
-- [References](#references)
+- [Apresentação](#Apresentação)
+- [Referências](#Referências)
 
----
+---  
 
 ## Objetivo 
 
-- Implement randomly generated graphs with a given size;
-- Implement DFS with and without multithreading;
-
+- Implementação de grafos gerados aleatoriamente com um determinado tamanho;
+- Implementação DFS com multithreading
 
 ## Apresentação 
 
@@ -25,7 +24,7 @@ Nosso slide pode ser visto no [Canva](
 
 ---
 
-## References
+## Referências
 
 
 
