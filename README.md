@@ -16,7 +16,7 @@ Desenvolvido por [Glisbel](https://github.com/glisbel?tab=repositories) , [Thiag
 ## Objetivo 
 
 - Implementação de grafos gerados aleatoriamente com um determinado tamanho;
-- Implementação DFS com multithreading
+- Implementação DFS com multithreading;
 
 ## Apresentação 
 
