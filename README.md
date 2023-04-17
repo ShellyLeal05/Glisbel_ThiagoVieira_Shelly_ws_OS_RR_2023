@@ -17,6 +17,7 @@ Desenvolvido por [Glisbel](https://github.com/glisbel?tab=repositories) , [Thiag
 
 - Implementação de grafos gerados aleatoriamente com um determinado tamanho;
 - Implementação DFS com multithreading;
+- Implementação DFS com uma thread;
 
 ## Apresentação 
 
@@ -25,6 +26,7 @@ Nosso slide pode ser visto no [Canva](
 ---
 
 ## Referências
+
 
 
 
