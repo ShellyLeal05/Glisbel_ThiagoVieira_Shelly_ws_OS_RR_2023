@@ -31,6 +31,7 @@ Nosso slide pode ser visto no [Canva](https://www.canva.com/design/DAFgLyILcTQ/R
 
 - [Como compilar no terminal do Linux - WSL](https://ling123labs.com/posts/WSL-files-in-Windows-and-vice-versa/)
 - O código implementado tem como referência principal o [_Github Repo_](https://github.com/ed-henrique/dfs-multithreading)
+- Crie seu próprio GRAFO através do site [Graph Online](https://graphonline.ru/pt/)
 
 ----
 
