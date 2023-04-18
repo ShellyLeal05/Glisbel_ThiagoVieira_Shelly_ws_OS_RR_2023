@@ -23,7 +23,7 @@ Desenvolvido por [Glisbel](https://github.com/glisbel?tab=repositories) , [Thiag
 
 ## Apresentação 
 
-Nosso slide pode ser visto no [Canva](
+Nosso slide pode ser visto no [Canva](https://www.canva.com/design/DAFgLyILcTQ/Rd32YcKOnL9_74vGDcD4cg/edit?utm_content=DAFgLyILcTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
