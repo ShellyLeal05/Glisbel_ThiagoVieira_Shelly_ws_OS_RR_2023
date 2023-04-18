@@ -27,10 +27,10 @@ Nosso slide pode ser visto no [Canva](
 
 ## Referências
 
+- [Como compilar no terminal do Linux - WSL](https://ling123labs.com/posts/WSL-files-in-Windows-and-vice-versa/)
+- O código implementado tem como referência principal o [_Github Repo_](https://github.com/ed-henrique/dfs-multithreading)
 
-
-
-
+----
 
 Usamos também as referências fornecidas pelo nosso professor [Hebert Rocha](https://github.com/hbgit)
 
